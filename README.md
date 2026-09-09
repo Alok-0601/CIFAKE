@@ -1,17 +1,13 @@
-# 🔍 CIFAKE Detector
+#  CIFAKE Detector
 
 A Streamlit web app that detects whether an image is **real** (camera-captured) or **AI-generated**, powered by a fine-tuned **EfficientNetB0** model trained on the [CIFAKE dataset](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images).
 
-## 🚀 Deploy on Streamlit Community Cloud (free)
+##  Deploy on Streamlit Community Cloud 
 
-1. Push this repo to GitHub (include `efficientnet_model.keras`)
-2. Go to [share.streamlit.io](https://share.streamlit.io) → **New app**
-3. Pick your repo, branch `main`, file `app.py`
-4. Click **Deploy** — done! 🎉
+[share.streamlit.io](https://share.streamlit.io) → **New app**
 
-> **Note:** The first cold start takes ~60 s while the model loads. Subsequent requests are instant.
 
-## 📁 File structure
+##  File structure
 
 ```
 .
@@ -21,14 +17,14 @@ A Streamlit web app that detects whether an image is **real** (camera-captured) 
 └── efficientnet_model.keras  # Trained model weights (upload separately)
 ```
 
-## 🛠️ Run locally
+##  Run locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🧠 Model details
+##  Model details
 
 | Field | Value |
 |---|---|
@@ -39,6 +35,6 @@ streamlit run app.py
 | Dataset | CIFAKE — 60 000 images |
 | Classes | REAL, FAKE (AI-generated) |
 
-## 👤 Author
+##  Author
 
 **Alok Gupta** · ADGITM
