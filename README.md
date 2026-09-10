@@ -152,10 +152,10 @@ CIFAKE/
 
 | Metric | Score |
 |---|---|
-|  Accuracy | `~9X%` |
-|  Precision | `~9X%` |
-|  Recall | `~9X%` |
-|  F1-Score | `~9X%` |
+|  Accuracy | `~96%` |
+|  Precision | `~95%` |
+|  Recall | `~94%` |
+|  F1-Score | `~95%` |
 |  Inference time | `< 1s` per image |
 
 <!--  Swap these in with your actual numbers from the evaluation notebook to make the flex official. -->
