@@ -41,7 +41,7 @@ So we stopped trusting eyes and trained a **Convolutional Neural Network** inste
 
 <div align="center">
 
-###  `REAL` &nbsp;&nbsp;&nbsp; or &nbsp;&nbsp;&nbsp; 🔴 `AI-GENERATED`
+###  `REAL` &nbsp;&nbsp;&nbsp; or &nbsp;&nbsp;&nbsp;  `AI-GENERATED`
 
 </div>
 
