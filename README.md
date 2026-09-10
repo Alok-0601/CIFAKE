@@ -2,7 +2,7 @@
 
 #  CIFAKE — *Can You Trust Your Eyes?*
 
-### Real photograph or AI hallucination? This model calls the bluff in milliseconds. ⚡
+### Real photograph or AI hallucination? This model calls the bluff in milliseconds. 
 
 ```
    ██████╗ ██╗███████╗ █████╗ ██╗  ██╗███████╗
@@ -14,7 +14,7 @@
         REAL  vs  AI-GENERATED  •  DETECTOR
 ```
 
-[![ Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Try_it_now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cifakee.streamlit.app/)
+[![ Live Demo](https://img.shields.io/badge/_LIVE_DEMO-Try_it_now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cifakee.streamlit.app/)
 [![ Repo](https://img.shields.io/badge/GitHub-Alok--0601%2FCIFAKE-181717?style=for-the-badge&logo=github)](https://github.com/Alok-0601/CIFAKE)
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -23,7 +23,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-120k_images-blueviolet?style=flat-square)
 ![Status](https://img.shields.io/badge/status-live-success?style=flat-square)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
-**[ Live App](https://cifakee.streamlit.app/) · [ How it works](#-how-it-works) · [Quickstart](#️-quickstart-60-seconds) · [📊 Results](#-results) · [🗺️ Roadmap](#️-roadmap)**
+**[ Live App](https://cifakee.streamlit.app/) · [ How it works](#-how-it-works) · [Quickstart](#️-quickstart-60-seconds) · [Results](#-results) · [ Roadmap](#️-roadmap)**
 
 </div>
 
@@ -86,12 +86,12 @@ The cat is not the clue. The *air around the cat* is the clue.
 
 | | |
 |---|---|
-| 🟢 **REAL images** | 60,000 — sourced from the classic **CIFAR-10** dataset |
-| 🔴 **FAKE images** | 60,000 — generated with **Stable Diffusion v1.4**, mirroring CIFAR-10's 10 classes |
-| 🧮 **Total** | **120,000** images |
-| 🏋️ **Train / Test** | 100,000 / 20,000 (perfectly balanced, 50/50 per class) |
-| 🖼️ **Resolution** | 32 × 32 RGB |
-| 🏷️ **Classes covered** | airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck |
+|  **REAL images** | 60,000 — sourced from the classic **CIFAR-10** dataset |
+|  **FAKE images** | 60,000 — generated with **Stable Diffusion v1.4**, mirroring CIFAR-10's 10 classes |
+|  **Total** | **120,000** images |
+|  **Train / Test** | 100,000 / 20,000 (perfectly balanced, 50/50 per class) |
+|  **Resolution** | 32 × 32 RGB |
+|  **Classes covered** | airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck |
 
  **Download:** [CIFAKE on Kaggle](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
  **Original paper:** Bird, J.J. & Lotfi, A. (2024). *CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images*, **IEEE Access** — [arXiv:2303.14126](https://arxiv.org/abs/2303.14126)
@@ -143,7 +143,7 @@ CIFAKE/
 ├──  notebooks/              # Training, EDA & evaluation notebooks
 ├──  data/                   # CIFAKE dataset (git-ignored — grab it from Kaggle)
 ├──  requirements.txt        # Dependencies
-└──  README.md               # You are here 📍
+└──  README.md               # You are here 
 ```
 
 ---
